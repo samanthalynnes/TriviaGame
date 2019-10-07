@@ -6,7 +6,13 @@ body {
     
 }
 
+.wrapper {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
+    font-size: 200px;
+    line-height: 200px;
     color: white;
 }

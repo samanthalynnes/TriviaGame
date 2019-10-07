@@ -1,6 +1,10 @@
 # TriviaGame
 Week 5 homework
 
+https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2017/10/The-best-Game-of-Thrones-wallpapers-for-your-phone2.jpg?w=690&ssl=1
+
+https://images.alphacoders.com/307/thumb-1920-307471.jpg
+
 Game of Thrones Trivia
 
 Questions/Answers:
@@ -33,4 +37,4 @@ Questions/Answers:
     Wildfire, *Dragonglass, Elephant tusks, Metal
 
 10. Who saves Jon Snow, Jorah Mormont, Tormund, and The Hound from certain death when they travel north of the wall to try to catch a wight?
-    Bronn of Blakwater, Jamie Lannister, Stannis Baratheon, *Danaerys Targaryan 
+    Bronn of Blackwater, Jamie Lannister, Stannis Baratheon, *Danaerys Targaryan 
